@@ -1,4 +1,4 @@
-# BlueStacks_BackGround_Script
+# BlueStacks Background Script
 Manipulate BlueStacks in background
 
 ## Video
